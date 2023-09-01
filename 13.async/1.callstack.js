@@ -9,6 +9,5 @@ function b() {
 function c() {
 	return b() + 1;
 }
-
 const result = c();
 console.log(result);
